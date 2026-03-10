@@ -8,3 +8,19 @@ SunFlow is a smart agriculture system that combines automatic irrigation, weathe
 * LCD display for real-time system status
 * Relay-controlled water pump
 * Improves water efficiency and crop health
+
+# Hardware Components
+* Arduino Uno R3
+* Soil Moisture Sensor
+* DHT11 Temperature & Humidity Sensor
+* Rain Sensor
+* LDR Sensors
+* Servo Motor
+* Solar Panel
+* Relay Module
+* Water Pump
+* LCD Display (I2C)
+
+Breadboard & Jumper Wires
+
+3.7V LiPo Battery
