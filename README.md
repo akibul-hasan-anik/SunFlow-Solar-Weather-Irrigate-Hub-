@@ -20,7 +20,5 @@ SunFlow is a smart agriculture system that combines automatic irrigation, weathe
 * Relay Module
 * Water Pump
 * LCD Display (I2C)
-
-Breadboard & Jumper Wires
-
-3.7V LiPo Battery
+* Breadboard & Jumper Wires
+* 3.7V LiPo Battery
